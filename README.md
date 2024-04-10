@@ -1,8 +1,6 @@
 # AIR_BNB-ANALYSIS
 <h1 align="center"> Airbnb Booking Analysis </h1>
 
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
-
 
 ![image](https://user-images.githubusercontent.com/92014177/163605895-d66fac6d-707d-4ab0-a4f4-ebd132b326ef.png)
 
@@ -113,9 +111,3 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-* Ppt Presentation Link:-https://drive.google.com/file/d/11HlDbxsOjuewyYryelE1NxJSNhdoAwbY/view?usp=sharing
-
-* Video Presentation Link:-https://drive.google.com/file/d/1kbSnLHvZBgS4RGwCiimMuDs9aW6g5iHZ/view?usp=sharing
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
